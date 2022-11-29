@@ -5,7 +5,7 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：20  
-* 手 机：18313040958 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 邮 箱：a1141609402@gmail.com    
+* 手 机：18313040958 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：a1141609402@gmail.com    
 * 专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：后端工程师
 
 ## 工作及教育经历
