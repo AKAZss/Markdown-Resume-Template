@@ -25,6 +25,7 @@
 
 高并发秒杀系统
 技术栈: SpringBoot + MyBatis + MySQL + Redis + RabbitMQ
+
 项目功能: 
 * 使用redis做缓存提高访问速度和并发量，减少数据库压力。
 * 使用消息队列完成异步下单，提升用户体验，削峰和降流。
