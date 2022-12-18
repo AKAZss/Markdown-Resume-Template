@@ -23,7 +23,8 @@
 
 ## 项目经历
 
-高并发秒杀系统
+高并发秒杀系统  
+
 技术栈: SpringBoot + MyBatis + MySQL + Redis + RabbitMQ
 
 项目功能: 
