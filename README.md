@@ -26,17 +26,18 @@
 
 高并发秒杀系统  
 
-技术栈: SpringBoot + MyBatis + MySQL + Redis + RabbitMQ
+技术栈: SpringBoot + MyBatis + MySQL + Redis + RabbitMQ + Guava
 
 
 项目功能：
-*
+* 核心功能
+      实现基本的登录、查看商品列表、秒杀、下单等功能，项目中还针对高并发情况实现了系统缓存、降级和限流。
 
 
 项目亮点: 
 * 使用Caffeine，OpenResty,Canal构建出Nignx,Redis,本地缓存的多级缓存架构。
 * 使用redis做缓存提高访问速度和并发量，减少数据库压力。
-* 灵活使用Spring中Bean，实现在Bean初始化时的Redis缓存预热与预减库存。
+* 灵活使用Spring，实现在Bean初始化时的Redis缓存预热与预减库存，并使用动态代理实现限流自定义注解。
 * 灵活使用各种分析工具,解决项目中遇到异常的OOM问题。
 
 
