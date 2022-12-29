@@ -36,7 +36,7 @@
 项目亮点: 
 * 使用Caffeine，OpenResty,Canal构建出Nignx,Redis,本地缓存的多级缓存架构。
 * 使用redis做缓存提高访问速度和并发量，减少数据库压力。
-* 灵活使用Spring中Bean，实现在Bean初始化时的Redis缓存预热。
+* 灵活使用Spring中Bean，实现在Bean初始化时的Redis缓存预热与预减库存。
 * 灵活使用各种分析工具,解决项目中遇到异常的OOM问题。
 
 
