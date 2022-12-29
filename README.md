@@ -28,6 +28,8 @@
 
 技术栈: SpringBoot + MyBatis + MySQL + Redis + RabbitMQ
 项目功能：
+*
+
 
 项目亮点: 
 * 使用Caffeine，OpenResty,Canal构建出Nignx,Redis,本地缓存的多级缓存架构。
